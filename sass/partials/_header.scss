@@ -1,0 +1,28 @@
+header{
+    #row1{
+    background: linear-gradient(to bottom, #48a7dd 0%,#4aa8dc 35%,#50acdf 38%,#62b5e1 43%,#91cdef 53%,#a7d9f2 59%,#acdbf5 60%,#bce2f5 65%,#c0e5f8 67%,#c0e5f8 100%);
+    }
+    #nav{
+        background: #235ea0 !important;;
+        background: -moz-linear-gradient(top, #235ea0 7%, #2360a3 20%, #1d5c9f 31%, #1c5ba2 44%, #4b9ac1 64%, #4b9ac1 77%, #4b9ac1 84%, #4b9ac1 91%) !important;
+        /* background: -webkit-linear-gradient(top, #235ea0 7%,#2360a3 20%,#1d5c9f 31%,#1c5ba2 44%,#4b9ac1 64%,#4b9ac1 77%,#4b9ac1 84%,#4b9ac1 91%) !important; */
+        /* background: linear-gradient(to bottom, #235ea0 7%,#2360a3 20%,#1d5c9f 31%,#1c5ba2 44%,#4b9ac1 64%,#4b9ac1 77%,#4b9ac1 84%,#4b9ac1 91%) !important; */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#235ea0', endColorstr='#4b9ac1',GradientType=0 ) !important;
+        /* border-radius: 0px !important; */
+        min-height: 36px !important;
+        display:block;
+        width: 100%;
+        a{
+        color: $white;
+        }
+        
+    } 
+}
+.flag{
+    height:80px;
+    width:50%;
+}
+.scrool{
+    width:80%;
+                               
+}
